@@ -1,0 +1,9 @@
+1. 增加1G大小的指标：
+Active
+Active(anon)
+AnonPages
+Committed_AS
+
+2. 减少1G大小的指标：
+MemFree
+MemAvailable

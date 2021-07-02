@@ -1,0 +1,11 @@
+1. 增加1G大小的指标：
+Cached
+Inactive
+Inactive(anon)
+Mapped
+Shmem
+Committed_AS
+
+2. 减少1G大小的指标：
+MemAvailable
+MemFree
